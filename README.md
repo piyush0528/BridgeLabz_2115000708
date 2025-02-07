@@ -15,3 +15,7 @@ DATE:-30-01-25 TOPICS COVERED:- *Procedural Programming vs OOP, concept of class
 DATE:-31-01-25 TOPICS COVERED:- *Java Constructors, Instance vs Class variables and access modifiers concepts.
 
 DATE:-3-2-25 TOPICS COVERED:- * This,Static,Final,Instance of operator
+
+DATE:-6-2-25 TOPICS COVERED:- *Learned object modeling, class diagram, sequence diagram and object diagram.
+
+DATE:-7-2-25 TOPICS COVERED:- *Inheritance and its types, method overriding, constructor inheritance and polymorphism.
