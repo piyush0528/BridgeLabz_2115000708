@@ -19,3 +19,9 @@ DATE:-3-2-25 TOPICS COVERED:- * This,Static,Final,Instance of operator
 DATE:-6-2-25 TOPICS COVERED:- *Learned object modeling, class diagram, sequence diagram and object diagram.
 
 DATE:-7-2-25 TOPICS COVERED:- *Inheritance and its types, method overriding, constructor inheritance and polymorphism.
+
+DATE:-08-02-25 TOPICS COVERED:- *Learned about encapsulation, polymorphism, use of interface and use of abstract classes.
+
+DATE:-10-02-25 TOPICS COVERED:- *Learned the linked lists and its types:- single, double and circular linked lists.
+
+DATE:-12-02-25 TOPICS COVERED:- *Learned the implementation of stacks, queue and hash map.
