@@ -25,3 +25,5 @@ DATE:-08-02-25 TOPICS COVERED:- *Learned about encapsulation, polymorphism, use 
 DATE:-10-02-25 TOPICS COVERED:- *Learned the linked lists and its types:- single, double and circular linked lists.
 
 DATE:-12-02-25 TOPICS COVERED:- *Learned the implementation of stacks, queue and hash map.
+
+DATE:-14-02-25 TOPICS COVERED:- *learnrd sorting Algorithms,heap sort,merge sort,quick sort
