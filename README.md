@@ -26,4 +26,10 @@ DATE:-10-02-25 TOPICS COVERED:- *Learned the linked lists and its types:- single
 
 DATE:-12-02-25 TOPICS COVERED:- *Learned the implementation of stacks, queue and hash map.
 
-DATE:-14-02-25 TOPICS COVERED:- *learnrd sorting Algorithms,heap sort,merge sort,quick sort
+DATE:-13-02-25 TOPICS COVERED:- *learnrd sorting Algorithms,heap sort,merge sort,quick sort
+
+DATE:-14-02-25 TOPICS COVERED:- *learned comparison between stringbuilder, stringbuffer, filereader, inputstrearmeader, linearsearch and binary search.
+
+DATE:-15-02-25 TOPICS COVERED:- *laerned practice on general algos and in detailed about time complexity and space complexity.
+
+DATE:-17-02-25 TOPICS COVERED:- *learned about generics - types of parameters, classes, methods, and wildcards.
